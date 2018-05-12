@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # express-mongodb-node
 前后端分离实现增删改查
 
@@ -31,3 +32,6 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 >>>>>>> Version1.01
 >>>>>>> Version1.01
+=======
+# vue-express-node-mongodb
+>>>>>>> 4fe4e1b45f2f6270f246f4877a0857e04aa0d7bc
